@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778430945224",
+    "project_id": "dayraworlds",
+    "storage_bucket": "dayraworlds.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778430945224:android:bf6393dc83f896a839d2fd",
+        "android_client_info": {
+          "package_name": "com.worlddayra.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778430945224-8mgig7ev31fb7n6tlblhoq395r0cgd4s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjWNYDxlcZD0ChlogPKcRQyGxbN0QRhW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778430945224-8mgig7ev31fb7n6tlblhoq395r0cgd4s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
