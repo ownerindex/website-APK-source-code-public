@@ -14,11 +14,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "778430945224-hvqlqnc9r544km743potuen9d2es5bgs.apps.googleusercontent.com",
+          "client_id": "778430945224-prv2lsjqfqkkdm1agvv68md38rclpkrt.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.worlddayra.app",
-            "certificate_hash": "e1095ce37b44ce03d18d95550194f020de490994"
+            "certificate_hash": "9026123fbcf3befe8f9cc06f5d8c4f7740760073"
           }
         },
         {
