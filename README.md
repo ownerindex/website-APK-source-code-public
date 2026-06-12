@@ -1,5 +1,5 @@
 # 🚀 WorldDayra Official Application
-### 🕒 System Fully Upgraded At: 2026-06-12 01:39:19 PM IST
-**[👉 CLICK HERE TO INSTALL WORLDDAYRA APK](https://github.com/ownerindex/website-APK-source-code-public/raw/main/APK/Final-PlayStore-App.apk)**
+### 🕒 System Fully Upgraded At: 2026-06-12 02:00:32 PM IST
+### 📱 Current Version: v1.0.0
 
-**[📦 GOOGLE PLAY AAB BUNDLE AVAILABLE HERE](https://github.com/ownerindex/website-APK-source-code-public/raw/main/APK/Final-PlayStore-App.aab)**
+**[👉 CLICK HERE TO DOWNLOAD LATEST APK](https://github.com/ownerindex/website-APK-source-code-public/releases/latest/download/WorldDayra-v1.0.0.apk)**
